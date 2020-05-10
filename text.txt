@@ -1,1 +1,2 @@
-j'ai ecris ici 
+lien pour voir les astuces :
+https://stackoverflow.com/questions/42244541/laravel-migration-error-syntax-error-or-access-violation-1071-specified-key-wa
